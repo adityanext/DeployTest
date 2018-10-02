@@ -2,7 +2,8 @@
   "name": "deploy-test",
   "version": "0.0.0",
   "engines": {  
-    "node": "0.6.23|| 0.8.x"  
+    "node": "0.6.23|| 0.8.x" ,
+    "npm" : "~1.0.20" 
   },
   "scripts": {
     "ng": "ng",
